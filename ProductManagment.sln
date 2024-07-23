@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagment", "ProductManagment\ProductManagment.csproj", "{8876A69D-4B91-44A6-9E47-9F66C1FF688D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{21DBAD9F-F259-4A38-BCC1-BBBE12C59504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8876A69D-4B91-44A6-9E47-9F66C1FF688D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8876A69D-4B91-44A6-9E47-9F66C1FF688D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8876A69D-4B91-44A6-9E47-9F66C1FF688D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8876A69D-4B91-44A6-9E47-9F66C1FF688D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DBAD9F-F259-4A38-BCC1-BBBE12C59504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DBAD9F-F259-4A38-BCC1-BBBE12C59504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DBAD9F-F259-4A38-BCC1-BBBE12C59504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DBAD9F-F259-4A38-BCC1-BBBE12C59504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6ED1E63-16D2-4A04-9E64-B0FF2092219D}
+	EndGlobalSection
+EndGlobal
